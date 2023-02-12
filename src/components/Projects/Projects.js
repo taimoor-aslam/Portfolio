@@ -16,7 +16,7 @@ function Projects() {
       title: "KINFOLK",
       description:
         "A web application built with MERN stack which is used to integrate various HR functions into a unified system that shares data and outputs reports across the entire platform as a core functionality.",
-      demoLink: "",
+      demoLink: "https://develop.d3v00pgd5kf0ej.amplifyapp.com",
     },
     {
       imgPath: DfsArmy,

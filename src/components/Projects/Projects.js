@@ -64,6 +64,7 @@ function Projects() {
         "https://play.google.com/store/apps/details?id=com.applicity.remember&pli=1",
     },
   ];
+
   return (
     <Container fluid className="project-section">
       <Particle />

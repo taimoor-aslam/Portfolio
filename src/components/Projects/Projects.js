@@ -8,22 +8,30 @@ import MazGlobal from "../../Assets/Projects/maz-global.png";
 import DfsArmy from "../../Assets/Projects/dfs-army.png";
 import Pernia from "../../Assets/Projects/pernia.png";
 import ForestTown from "../../Assets/Projects/foresttown.png";
+import NobleQuote from "../../Assets/Projects/noblequote.png";
 
 function Projects() {
   const projects = [
-    {
-      imgPath: KinFolk,
-      title: "KINFOLK",
-      description:
-        "A web application built with MERN stack which is used to integrate various HR functions into a unified system that shares data and outputs reports across the entire platform as a core functionality.",
-      demoLink: "https://develop.d3v00pgd5kf0ej.amplifyapp.com",
-    },
     {
       imgPath: DfsArmy,
       title: "DFS ARMY",
       description:
         "A web application built with MEAN stack which is a research site, lineup optimizer tool, and collaboration platform bundled into one. It's a popular solution for DFS players looking to both prepare for weekly slates and improve their performance in daily fantasy contests.",
       demoLink: "https://stage.dfsarmy.com/",
+    },
+    {
+      imgPath: NobleQuote,
+      title: "Noble Quote",
+      description:
+        "A web application built with MEAN stack which is a rapidly expanding provider of premium automotive vehicle service contracts. Leveraging vast experience in the automotive field, offering exceptional products that meet the unique needs of valued clients.",
+      demoLink: "https://noblequote.com/",
+    },
+    {
+      imgPath: KinFolk,
+      title: "KINFOLK",
+      description:
+        "A web application built with MERN stack which is used to integrate various HR functions into a unified system that shares data and outputs reports across the entire platform as a core functionality.",
+      demoLink: "https://develop.d3v00pgd5kf0ej.amplifyapp.com",
     },
     {
       imgPath: MazGlobal,
